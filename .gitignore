@@ -2,6 +2,5 @@
 /img/*
 /vendor/*
 /nbproject/*
-/src
-/src/scrum/ScotchLodge/Libs
-!/src/scrum/ScotchLodge/Data
+src/scrum/ScotchLodge/Libs/Twig/*
+src/scrum/ScotchLodge/Libs/Bcrypt.php
