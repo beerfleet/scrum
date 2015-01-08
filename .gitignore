@@ -2,5 +2,6 @@
 /img/*
 /vendor/*
 /nbproject/*
-/src/*
-!/src/scrum/ScotchLodge/Data/*
+/src
+/src/scrum/ScotchLodge/Libs
+!/src/scrum/ScotchLodge/Data
