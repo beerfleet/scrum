@@ -1,4 +1,5 @@
 /config/*
 /img/*
-src/scrum/ScotchLodge/Libs/*
+/src/scrum/ScotchLodge/Libs/*
 /vendor/*
+/nbproject/*
