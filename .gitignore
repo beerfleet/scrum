@@ -2,3 +2,5 @@
 /img/*
 /vendor/*
 /nbproject/*
+/src/*
+!/src/scrum/ScotchLodge/*
