@@ -3,7 +3,7 @@
 use Doctrine\Common\ClassLoader;
 use scrum\ScotchLodge\Service\Output;
 
-require_once './vendor/autoload.php';
+require_once 'bootstrap.php';
 
 $classloader = new ClassLoader("scrum", "src");
 $classloader->register();
