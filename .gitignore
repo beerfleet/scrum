@@ -3,5 +3,4 @@
 /vendor/*
 /nbproject/*
 /src/*
-!/src/scrum/ScotchLodge/Data
-!/src/scrum/ScotchLodge/Data
+!/src/scrum/ScotchLodge/Data/*
