@@ -1,6 +1,2 @@
-/config/*
-/img/*
-/vendor/*
-/nbproject/*
-src/scrum/ScotchLodge/Libs/Twig/*
-src/scrum/ScotchLodge/Libs/Bcrypt.php
+vendor/*
+nbproject/*
