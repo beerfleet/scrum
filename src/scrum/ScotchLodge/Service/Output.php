@@ -10,7 +10,7 @@ class Output {
   function __construct() {
     if (!session_id())
       session_start();
-    require_once './src/scrum/ScotchLodge/Libs/Twig/Autoloader.php';
+    require_once './vendor/twig/twig/lib/Twig/Autoloader.php';
     \Twig_Autoloader::register();
   }
 
